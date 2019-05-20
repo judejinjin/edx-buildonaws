@@ -1,0 +1,15 @@
+dex-build-aws-vpc: vpc-0b02980657cd8fc2d
+
+subnets:
+edx-subnet-public-a
+subnet-047b2d8e0c5bdd188
+
+edx-subnet-public-b
+subnet-0747136cfd2b275ed
+
+edx-subnet-private-b
+subnet-0c4896efe83b956aa
+
+edx-subnet-private-a
+subnet-0f2fc6367680e2b61
+
